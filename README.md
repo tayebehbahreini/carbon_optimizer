@@ -1,4 +1,4 @@
-# cfp-optimizer
+# carbon_optimizer
 
 Carbon footprint minimization through workload management
 
